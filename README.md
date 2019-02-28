@@ -1,28 +1,3 @@
-# smart-toilet
-
-Required items:
-– Raspberry PI 3 & SD Card with ubuntu-mate Operating System https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
-– MQ135 sensor pack
-– 4 x pitch jumpers
-
-Preparing Raspberry PI 3 & SHDC:
-Create the setup as follows:
-1. Download below two as described https://ubuntu-mate.org/raspberry-pi/
-– 7-Zip to extract the image.
-– Win32 Disk Imager to write the image.
-2. Extracted ‘ubuntu-mate from zip and flashed SHCD using Win32 Disk Imager
-3. Put the SHCD into slot and power-up the Raspberry PI 3.
-4. After ubuntu-mate is up, execute following on the terminal:
-
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install git                      //if git not installed
-
-
-"""
-GAS Sensor MQ135 using Raspberry Pi 
-
-"""
 # Import all the libraries we need to run
 import sys
 import RPi.GPIO as GPIO
@@ -76,8 +51,4 @@ def main():
 if __name__ == '__main__':
     main()rin
 
-Connect as illustrated in picture:
-VCC (MQ135 board) <-> pin02 (RPi-3 3.3v)
-Ground (MQ135 board) <-> pin30 (RPi-3 Ground)
-DO (MQ135 board) <-> pin32 (RPi-3 GPIO-12)
-AO (MQ135 board) <-> not used yet
+
