@@ -4,7 +4,7 @@ Smart Toilet System is a maintenance free technology that consists of People Den
 
 • For more details about this project visit :- <br />
 &nbsp;○ Presentation :-
-&nbsp;&nbsp; [Click Here](https://drive.google.com/file/d/1REDQVprmTU_RoPjAei6cuqV9I_UvbqCE/view) <br />
+&nbsp;&nbsp; [Click Here](https://drive.google.com/file/d/1REDQVprmTU_RoPjAei6cuqV9I_UvbqCE/view){target="_blank"} <br />
 &nbsp;○ Product image :-
 &nbsp;&nbsp; https://drive.google.com/file/d/1BJ2kENy4UBWavuT4m5b4xU8jYrOm1J3z/view <br />
   
