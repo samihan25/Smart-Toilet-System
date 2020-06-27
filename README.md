@@ -15,3 +15,6 @@ Smart Toilet System is a maintenance free technology that consists of People Den
 &nbsp; [Watch Video here](https://youtu.be/Nkka00NMDgY)
 
 &nbsp;&nbsp;![Product image](https://github.com/samihan25/Smart-Toilet-System/blob/master/Project%20Details/Smart%20Toilet%20System.jpg)
+
+
+### Hit Counter  [![HitCount](http://hits.dwyl.com/samihan25/Smart-Toilet-System.svg)](http://hits.dwyl.com/samihan25/Smart-Toilet-System)
